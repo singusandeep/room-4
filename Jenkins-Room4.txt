@@ -1,0 +1,32 @@
+!)What is jenkins
+  Jenkins is an open source,CICD tool.,Automation software devops tool,for build,test and deploy.Jenkins come with bydefault servlet container which is jetty 
+  and winstone.
+  It is java application.
+
+2)What is Jenkins used for.
+  Deploy ,test and build.
+
+3)Which architecture is recommended for a scalable Jenkins environment?
+  Distributed builds architure is recommned,THis is focus on master and slave on both.
+ 
+4)How to add a user in Jenkins?
+  jenkins-manage users-create user ,we can add role to user or permission.
+
+5)What is Jenkins Pipeline?
+  Pipleline is workflow with group of jobs and they chained and integrated with each other in sequence and job is depend on each other.   
+  Jenkins pipeline is implemental process as code and execute which allows several user to edit the pipeline process.
+
+6) What is Jenkinsfile
+  Jenkins file is  text file that containe a script or def to create a pipeline and it is pipeline as a code.
+
+7)What is continuous integration in Jenkins
+  It is used for Build and test appllication continusly.
+
+8)How to change port for Jenkins?
+  Open jenkin configurtion file and we can change port.
+
+9)What are the software prerequisites that must be met before Jenkins is installed
+  Java should be there.
+
+10)How to configure and use third-party tools in Jenkins?
+   Jenkins-configure jenkin-manage plugins-then can install the plugins.

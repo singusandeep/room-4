@@ -1,0 +1,56 @@
+1)pwd- to print working directory.
+2)ls - to list out content of any folder.
+3)ls -a to print out hidden file in folder.
+4)ls -l list all the content with owner permission,time stamp.
+5)mkdir- to make directory.
+6)rmdir- to remove the directory.
+7)uname -a which OS is running in the instance.
+8)du -disk usage information.
+9)top -tell about all the job running in the system with process ID.
+10)cd- to change the directory to home.
+11)mv - move file to source to destination and also use for rename the file.
+12)kill- to kill the unwanted process.
+13)vi -to create a new file and to edit it.
+14)cat- to display the content of file.
+15)chmod- to change the permission of file or directory.
+16)clear- to clear the screen.
+17)cp - to copy the content of file to other file.
+18)echo-  to display the output.
+19)date- displaye the current date.
+20)cd ~ to change directory to home directory.
+21)grep- to filter out any word,line,text in file.
+22)gzip-to compressing the file.
+23)gunzip- to decompresing the file.
+24)history- to know the command history.
+25)help-to display all the command and details in linux.
+26)ipconfig- to know the IP details.
+27)passwd- for setting the password.
+28)touch- used to create a file.
+29)rename- rename the file name.
+30)rm-remove the file.
+31)cd .. - to get back to previous directory.
+32)tar-cvf -used to tar the files.
+33)tar-xvf -used to untar the files.
+34)whoami- tell the name of the user.
+35)wc- counts words,line and character.
+36)df- display used and available disk space.
+37)useradd- to add user.
+38)userdel- to delete user.
+39)sudo su- to switch user.
+40)tail- it display the last 10 line of the file.
+41)head- it display first 10 lines
+42)tac- it display the content of the file in opposite order.
+43)ping- to ping the ip address.
+44)netstat- show the incoming and out going network connection.
+45)sort -to sort the content of the file in alphabtical order.
+46)nslookup- find the IP address of the host.
+46)cd/ to change the dirctory to root directory.
+47)wq! -save the file.
+48)env- it print the list of environment variable.
+49)dd- delete the line in the file.
+50)ls *.html - using '*.html' flag list only the  content in the directory of particular format.
+51)more- it display the content of the file in screenfull output.
+52)less- it cut the outout in the width of the terminal.
+53)fdisk- shows any disk attached to the instance.
+54)id- it display the ID of the user.
+

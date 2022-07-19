@@ -1,0 +1,19 @@
+http://3.6.39.143:8080/git-webhook/
+
+https://github.com/sarathi14/webhook.git
+
+
+Step1: Create a new item with free style project and save : NewWebhook
+       under Source code management check in git 
+       caste the url of the project from github: https://github.com/sarathi14/webhook.git
+       under Build Triggers check in GitHub hook trigger for GITScm polling
+step2: Goto github
+       go inside projecttest - click settings - click webhooks - add webhook - 
+       Payload URL :http://3.6.39.143:8080/git-webhook/
+       Content type : applciation/json
+       Finally click Add Webhook
+       so the url generated which means any commit happens to this particular project will be triggered by jenkins
+       http://3.6.39.143:8080/git-webhook/ / (push) 
+ 
+  
+step3: do some change on source in project and commit and see whether the auto job triggering and job run is happening
